@@ -9,7 +9,7 @@ The topic of the website in UFOs. Initially the website was created to have a se
 
 The results of the website can be viewed through the use of VS code index as well as referencing app.js and data.js. The final website is clean and interactive. You can search for different cities, dates, states, countries, and shapes. But the good thing about this search criteria is that it was made so that you do not need to fill out every filter box. If you only want to filter by state or date for example, you can do that. An example of this can be seen in the following image. There are placeholders (such as date) but this example only has city and state.
 
-![Image](Screen Shot 2020-12-03 at 1.19.12 PM.png)
+![](https://github.com/holleyvoegtle/UFOs/blob/main/Screen%20Shot%202020-12-03%20at%201.19.12%20PM.png)
 ￼
 
 
