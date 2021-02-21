@@ -1,6 +1,6 @@
 # UFOs
 
-##  Overview of the project (explain purpose)
+##  Overview of the project 
 A dynamic website was created with the use of HTML and Javascript. Javascript is a coding language that was designed to enhance HTML and is the backbone of many visualization libraries. Javascript also provides a high level of customization to deliver visual data such as maps and graphs. The website that was created also used the skills learned from Bootstrap. The results of this project is to create something that is visual attractive and appealing while being interactive. 
 
 The topic of the website in UFOs. Initially the website was created to have a section of information followed by a search and filter function based on location and UFO sightings. The data comes from a Javascript dataset that contains such things as city location, countries, and shapes of the UFOs. Building from the initial website we build, more filters are added. 
