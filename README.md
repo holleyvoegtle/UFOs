@@ -11,8 +11,6 @@ The results of the website can be viewed through the use of VS code index as wel
 
 ![](https://github.com/holleyvoegtle/UFOs/blob/main/Screen%20Shot%202020-12-03%20at%201.19.12%20PM.png)
 ￼
-
-
 ￼
 
 ## Summary 
